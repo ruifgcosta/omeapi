@@ -4,7 +4,7 @@
   "tipo": "Bateria",
   "titulo": "Bateria XYZ",
   "descricao": "Descricao para o titulo 1 e mais alguma coisa",
-  "imagem": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/bat1.jpg",
+  "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/bat1.jpg",
   "Link": "https://www.facebook.com/photo?fbid=609554058648436&set=a.193494080254438"
  },
  {
@@ -12,7 +12,7 @@
   "tipo": "Pecas",
   "titulo": "Peças Manutenção",
   "descricao": "Descricao para o titulo 2 e mais alguma coisa",
-  "imagem": "https://scontent.fopo4-2.fna.fbcdn.net/v/t39.30808-6/481775903_609554065315102_2627395196437254497_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X4JySEKikcYQ7kNvgHN5Mcu&_nc_oc=AdhdvQa_TGxH-FFUeWGG7GAUHG43UKojZdliASzqwp0CU1vv6BeMqKZL8EbEt7xB_uqKueQgmh6tKe3cZz2v4RJl&_nc_zt=23&_nc_ht=scontent.fopo4-2.fna&_nc_gid=AK2BPRyquB66FyuaZn0nXc2&oh=00_AYEax8R8VRrwxTvZucMwDfJGrZ3T7DcNoSYkVes7VyI4-A&oe=67D3B721",
+  "imgUrl": "https://scontent.fopo4-2.fna.fbcdn.net/v/t39.30808-6/481775903_609554065315102_2627395196437254497_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X4JySEKikcYQ7kNvgHN5Mcu&_nc_oc=AdhdvQa_TGxH-FFUeWGG7GAUHG43UKojZdliASzqwp0CU1vv6BeMqKZL8EbEt7xB_uqKueQgmh6tKe3cZz2v4RJl&_nc_zt=23&_nc_ht=scontent.fopo4-2.fna&_nc_gid=AK2BPRyquB66FyuaZn0nXc2&oh=00_AYEax8R8VRrwxTvZucMwDfJGrZ3T7DcNoSYkVes7VyI4-A&oe=67D3B721",
   "Link": "https://www.facebook.com/photo?fbid=609554058648436&set=a.193494080254438"
  },
  {
@@ -20,7 +20,7 @@
   "titulo": "Bateria",
   "tipo": "Bateria EV",
   "descricao": "Descricao para o titulo 2 e mais alguma coisa",
-  "imagem": "https://scontent.fopo4-2.fna.fbcdn.net/v/t39.30808-6/481775903_609554065315102_2627395196437254497_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X4JySEKikcYQ7kNvgHN5Mcu&_nc_oc=AdhdvQa_TGxH-FFUeWGG7GAUHG43UKojZdliASzqwp0CU1vv6BeMqKZL8EbEt7xB_uqKueQgmh6tKe3cZz2v4RJl&_nc_zt=23&_nc_ht=scontent.fopo4-2.fna&_nc_gid=AK2BPRyquB66FyuaZn0nXc2&oh=00_AYEax8R8VRrwxTvZucMwDfJGrZ3T7DcNoSYkVes7VyI4-A&oe=67D3B721",
+  "imgUrl": "https://scontent.fopo4-2.fna.fbcdn.net/v/t39.30808-6/481775903_609554065315102_2627395196437254497_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X4JySEKikcYQ7kNvgHN5Mcu&_nc_oc=AdhdvQa_TGxH-FFUeWGG7GAUHG43UKojZdliASzqwp0CU1vv6BeMqKZL8EbEt7xB_uqKueQgmh6tKe3cZz2v4RJl&_nc_zt=23&_nc_ht=scontent.fopo4-2.fna&_nc_gid=AK2BPRyquB66FyuaZn0nXc2&oh=00_AYEax8R8VRrwxTvZucMwDfJGrZ3T7DcNoSYkVes7VyI4-A&oe=67D3B721",
   "Link": "https://www.facebook.com/photo?fbid=609554058648436&set=a.193494080254438"
  },
  {
@@ -28,7 +28,7 @@
   "titulo": "Mota EV",
   "tipo": "Veiculo",
   "descricao": "Descricao para o titulo 2 e mais alguma coisa",
-  "imagem": "https://scontent.fopo4-2.fna.fbcdn.net/v/t39.30808-6/481775903_609554065315102_2627395196437254497_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X4JySEKikcYQ7kNvgHN5Mcu&_nc_oc=AdhdvQa_TGxH-FFUeWGG7GAUHG43UKojZdliASzqwp0CU1vv6BeMqKZL8EbEt7xB_uqKueQgmh6tKe3cZz2v4RJl&_nc_zt=23&_nc_ht=scontent.fopo4-2.fna&_nc_gid=AK2BPRyquB66FyuaZn0nXc2&oh=00_AYEax8R8VRrwxTvZucMwDfJGrZ3T7DcNoSYkVes7VyI4-A&oe=67D3B721",
+  "imgUrl": "https://scontent.fopo4-2.fna.fbcdn.net/v/t39.30808-6/481775903_609554065315102_2627395196437254497_n.jpg?stp=dst-jpg_s720x720_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=X4JySEKikcYQ7kNvgHN5Mcu&_nc_oc=AdhdvQa_TGxH-FFUeWGG7GAUHG43UKojZdliASzqwp0CU1vv6BeMqKZL8EbEt7xB_uqKueQgmh6tKe3cZz2v4RJl&_nc_zt=23&_nc_ht=scontent.fopo4-2.fna&_nc_gid=AK2BPRyquB66FyuaZn0nXc2&oh=00_AYEax8R8VRrwxTvZucMwDfJGrZ3T7DcNoSYkVes7VyI4-A&oe=67D3B721",
   "Link": "https://www.facebook.com/photo?fbid=609554058648436&set=a.193494080254438"
  }
 ]
