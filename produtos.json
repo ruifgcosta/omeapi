@@ -57,30 +57,65 @@
  },
  {
   "id": 9,
-  "titulo": "Mota ACM",
+  "titulo": "ACM",
   "tipo": "Veiculo",
   "descricao": "Mota Elétrica sem necessidade de carta",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/ACM.jpg"
  },
  {
   "id": 10,
-  "titulo": "Mota NEOVOLT",
+  "titulo": "NEOVOLT",
   "tipo": "Veiculo",
   "descricao": "Mota Elétrica sem necessidade de carta",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/NEOVOLT.jpg"
  },
  {
   "id": 11,
-  "titulo": "Mota PULSE",
+  "titulo": "PULSE",
   "tipo": "Veiculo",
   "descricao": "Mota Elétrica sem necessidade de carta",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/PULSE.jpg"
  },
  {
   "id": 12,
-  "titulo": "Anilhas",
-  "tipo": "Pecas",
-  "descricao": "Artigos de reparação/manutenção",
+  "titulo": "PULSE",
+  "tipo": "Veiculo",
+  "descricao": "Mota Elétrica sem necessidade de carta",
+  "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/NEOVOLT_GO_X.jpg"
+ },
+ {
+  "id": 13,
+  "titulo": "NEOVOLT",
+  "tipo": "Veiculo",
+  "descricao": "Mota Elétrica sem necessidade de carta",
+  "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/NEOVOLT_WEFUN.jpg"
+ },
+ {
+  "id": 14,
+  "titulo": "NEOVOLT",
+  "tipo": "Veiculo",
+  "descricao": "Mota Elétrica sem necessidade de carta",
+  "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/NEOVOLT_WERIDE.jpg"
+ },
+ {
+  "id": 15,
+  "titulo": "NEOVOLT",
+  "tipo": "Veiculo",
+  "descricao": "Mota Elétrica sem necessidade de carta",
+  "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/VORTEX_MIG_72V.jpg"
+ },
+ {
+  "id": 16,
+  "titulo": "NEOVOLT",
+  "tipo": "Veiculo",
+  "descricao": "Mota Elétrica sem necessidade de carta",
+  "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/PULSE.jpg"
+ },
+ {
+  "id": 17,
+  "titulo": "NEOVOLT",
+  "tipo": "Veiculo",
+  "descricao": "Mota Elétrica sem necessidade de carta",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/PULSE.jpg"
  }
 ]
