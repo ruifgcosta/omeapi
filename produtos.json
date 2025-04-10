@@ -59,168 +59,168 @@
   "id": 9,
   "titulo": "ACM POWER ES 049",
   "tipo": "Veiculo",
-  "descricao": "Mota Elétrica 60V S/Carta - Pagamentos até 12x sem juros",
+  "descricao": "Mota Elétrica 60V S/Carta *Pagamentos até 12x sem juros",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/ACM.jpg"
  },
  {
   "id": 10,
   "titulo": "NEOVOLT RUNNER",
   "tipo": "Veiculo",
-  "descricao": "Mota Elétrica 60V S/Carta - Pagamentos até 12x sem juros",
+  "descricao": "Mota Elétrica 60V S/Carta *Pagamentos até 12x sem juros",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/NEOVOLT.jpg"
  },
  {
   "id": 11,
   "titulo": "NEOVOLT PULSE GREY",
   "tipo": "Veiculo",
-  "descricao": "Mota Elétrica 72V S/Carta - Pagamentos até 12x sem juros",
+  "descricao": "Mota Elétrica 72V S/Carta *Pagamentos até 12x sem juros",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/PULSE.jpg"
  },
  {
   "id": 12,
   "titulo": "NEOVOLT PULSE BLACK",
   "tipo": "Veiculo",
-  "descricao": "Mota Elétrica 72V S/Carta - Pagamentos até 12x sem juros",
+  "descricao": "Mota Elétrica 72V S/Carta *Pagamentos até 12x sem juros",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/PULSE-2.jpg"
  },
  {
   "id": 13,
   "titulo": "NEOVOLT WE-FUN",
   "tipo": "Veiculo",
-  "descricao": "Mota Elétrica 60V S/Carta - Pagamentos até 12x sem juros",
+  "descricao": "Mota Elétrica 60V S/Carta *Pagamentos até 12x sem juros",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/NEOVOLT_WEFUN.jpg"
  },
  {
   "id": 14,
   "titulo": "NEOVOLT WE-RIDE",
   "tipo": "Veiculo",
-  "descricao": "Mota Elétrica 60V S/Carta - Pagamentos até 12x sem juros",
+  "descricao": "Mota Elétrica 60V S/Carta *Pagamentos até 12x sem juros",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/NEOVOLT_WERIDE.jpg"
  },
  {
   "id": 15,
   "titulo": "VORTEX MIG RED",
   "tipo": "Veiculo",
-  "descricao": "Mota Elétrica 72V S/Carta - Pagamentos até 12x sem juros",
+  "descricao": "Mota Elétrica 72V S/Carta *Pagamentos até 12x sem juros",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/VORTEX_MIG_72V.jpg"
  },
  {
   "id": 16,
   "titulo": "NEOVOLT GO-X",
   "tipo": "Veiculo",
-  "descricao": "Mota Elétrica 60V S/Carta - Pagamentos até 12x sem juros",
+  "descricao": "Mota Elétrica 60V S/Carta *Pagamentos até 12x sem juros",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/NEOVOLT_GO_X.jpg"
  },
  {
   "id": 17,
   "titulo": "Pneu",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/1-Pneu.jpg"
  },
  {
   "id": 18,
   "titulo": "Jante + Pneu",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/2-Jante+Pneu.jpg"
  },
  {
   "id": 19,
   "titulo": "Câmera",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/3-Camera.jpg"
  },
  {
   "id": 19,
   "titulo": "Motor",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/4-Motor.jpg"
  },
  {
   "id": 20,
   "titulo": "Controladora",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/5-Controladora.jpg"
  },
  {
   "id": 21 ,
   "titulo": "Carregador",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/6-Carregador.jpg"
  },
  {
   "id": 22,
   "titulo": "Display",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/7-Display.jpg"
  },
  {
   "id": 23,
   "titulo": "Acelarador",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/8-Acelarador.jpg"
  },
  {
   "id": 24,
   "titulo": "Painel Botões",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/9-PainelBotoes.jpg"
  },
  {
   "id": 25,
   "titulo": "Kit Eletrónico",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/10-KitEletronico.jpg"
  },
  {
   "id": 26,
   "titulo": "Discos",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/11-Discos.jpg"
  },
  {
   "id": 27,
   "titulo": "Travões",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/12-Travoes.jpg"
  },
  {
   "id": 28,
   "titulo": "Pastilhas Travão",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/13-PastilhasTravao.jpg"
  },
  {
   "id": 29,
   "titulo": "Pinças Travão",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/14-PincasTravao.jpg"
  },
  {
   "id": 30,
   "titulo": "Guiador",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/15-Guiador.jpg"
  },
  {
   "id": 31,
   "titulo": "Potênciais",
   "tipo": "Pecas",
-  "descricao": "Usamos as melhores peças/acessórios com a melhor qualidade do mercado",
+  "descricao": "Trabalhamos apenas com a melhor qualidade do mercado",
   "imgUrl": "https://raw.githubusercontent.com/ruifgcosta/OficinaMobilidadeEletrica/refs/heads/main/assets/images/16-Potenciais.jpg"
  }
 ]
